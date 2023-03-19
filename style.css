@@ -1,0 +1,39 @@
+body {
+    font-size: 15pt;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    text-align: center;
+    background: deepskyblue
+}
+h1 {
+  color: black;
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: medium;
+}
+
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.btn {
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  background: white;
+  color: black;
+  margin: 16px; 
+  box-shadow: 5px 10px black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social-icon {
+  margin: 5px;
+}
